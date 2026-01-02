@@ -1,4 +1,203 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CW01 Gracious Unsib added.
+CW02 Honey Farmer added.
+CW03 Scarlet's Skirmisher added.
+CW04 Castle Guard added.
+CW05 HiveWing Honeyseller added.
+CW06 Sibling Healer added.
+CW07 Arena Entertainer added.
+CW08 IceWing Artificer added.
+CW09 Break the Spell added.
+CW10 Moonstone Bracelet added.
+CW11 Reenchant added.
+CW12 Strike First added.
+CW14 Call for Aid added.
+CW15 Protective Earrings added.
+CU01 Hatchery Guard added.
+CU02 Third Circle Storyteller added.
+CU03 Summer Palace Guard added.
+CU04 Palace Advisor added.
+CU05 First Moon Seer added.
+CU06 Enchanted Dagger added.
+CU07 NightWing Strategist added.
+CU08 Border Watch added.
+CU09 Arcane Denial added.
+CU10 Lure of Paradise added.
+CU11 Prophesize added.
+CU12 Coordinate added.
+CU13 Consign to Memory added.
+CU14 Divination added.
+CB01 Dragonmancer Apprentice added.
+CB02 Indoctrinated Student added.
+CB03 Vulture's Assassin added.
+CB04 Island Scavenger added.
+CB05 Village Treasurer added.
+CB06 Outclaw Peacekeeper added.
+CB07 Lady of the Hive added.
+CB08 Tunnel Guard added.
+CB09 Revealing Paper added.
+CB10 Deadly Dispute added.
+CB11 Sudden Strike added.
+CB12 False Visions added.
+CB13 Drop added.
+CB14 Murder added.
+CR01 Scarlet's Frontrunner added.
+CR02 Arena Firebreather added.
+CR03 Raider of Valor added.
+CR04 Arena Announcer added.
+CR05 Flamesilk Supporter added.
+CR06 Summer Palace Entertainer added.
+CR07 Indiscriminate Looters added.
+CR08 Hive Burner added.
+CR09 Raze the Village added.
+CR10 Careless Looting added.
+CR11 Rallying Chorus added.
+CR12 Abrade added.
+CR13 Enchanted Spear added.
+CR14 Demand Answers added.
+CG01 Novice Leafspeaker added.
+CG02 Diamond Delta Herbalist added.
+CG03 Rainforest Medic added.
+CG04 Burn's Warrior added.
+CG05 Blaze's Minder added.
+CG06 Reluctant Warrior added.
+CG07 PoisonWing Speaker added.
+CG08 Bigwings added.
+CG09 Enter the Delta added.
+CG10 Venom Strike added.
+CG11 Outclaw Ambush added.
+CG12 Return to Nature added.
+CG13 Declaration of Peace added.
+CG14 Rampant Growth added.
+CG15 Jungle Training added.
+CX01 Queen's Archivist added.
+CX02 Hive Master added.
+CX03 Sibling Shieldbrother added.
+CX04 Frontline Supporter added.
+CX05 Ashen Scavenger added.
+CX06 Ceremony Proctor added.
+CX07 Fruit Gatherer added.
+CX08 Faithless Looter added.
+CX09 Outclaw Watcher added.
+CX10 Flamesilk Escapee added.
+CA01 Bracelet of Strength added.
+CA02 The Lazulite Dragon added.
+BG Dual Scorpion Den added.
+BR Dual Indestructible City added.
+Possibility added.
+RG Dual Poison Jungle added.
+UB Dual The Lost City added.
+UG Dual Banyan Tree added.
+UR Dual Bay of a Thousand Scales added.
+WB Dual Sinkhole added.
+WG Dual Diamond Spray Delta added.
+WR Dual Claws of the Clouds Mountain added.
+WU Dual Diamond Caves added.
+SilkWing Token added.
+MudWing Token added.
+MudWing Token added.
+
+CW01 — Gracious Unsib removed.
+CW02 — Honey Farmer removed.
+CW03 — Scarlet's Skirmisher removed.
+CW04 — Castle Guard removed.
+CW07 — Arena Entertainer removed.
+CW05— HiveWing Honeyseller removed.
+CW06 — Sibling Healer removed.
+CW08 — IceWing Artificer removed.
+CW09 — Break the Spell removed.
+CW10 — Moonstone Bracelet removed.
+CW11 — Reenchant removed.
+CW14 — Call for Aid removed.
+CW12 — Strike First removed.
+CW13 — Deem Unworthy removed.
+CU02 — Third Circle Storyteller removed.
+CU08 — Academy Instructor removed.
+CU04 — Palace Advisor removed.
+CU09 — Arcane Denial removed.
+CU01 — Hatchery Guard removed.
+CU11 — Prophesize removed.
+CU12 — Coordinate removed.
+CU13 — Consign to Memory removed.
+CU14 — Divination removed.
+CU10 — Lure of Paradise removed.
+CU03 — Summer Palace Guard removed.
+CU05 — First Moon Seer removed.
+CU06 — Enchanted Dagger removed.
+CU07 — NightWing Strategist removed.
+CB01 — Dragonmancer Apprentice removed.
+CB02 — Indoctrinated Student removed.
+CB03 — Vulture's Assassin removed.
+CB04 — Island Scavenger removed.
+CB05 — Village Treasurer removed.
+CB06 — Outclaw Peacekeeper removed.
+CB07 — Lady of the Hive removed.
+CB12 — False Visions removed.
+CB08 — Tunnel Guard removed.
+CB09 — Revealing Paper removed.
+CB10 — Deadly Dispute removed.
+CB11 — Sudden Strike removed.
+CB13 — Drop removed.
+CB14 — Murder removed.
+CR05 — Flamesilk Supporter removed.
+CR04 — Arena Announcer removed.
+CR03 — Raider of Valor removed.
+CR02 — Arena Firebreather removed.
+CR01 — Scarlet's Frontrunner removed.
+CR13 — Demand Answers removed.
+CR14 — Enchanted Spear removed.
+CR10 — Careless Looting removed.
+CR11 — Rallying Chorus removed.
+CR12 — Abrade removed.
+CR09 — Raze the Village removed.
+CR08 — Hive Burner removed.
+CR07 — Indiscriminate Looters removed.
+CR06 — Summer Palace Entertainer removed.
+CG09 — Enter the Delta removed.
+CG10 — Venom Strike removed.
+CG11 — Outclaw Ambush removed.
+CG12 — Return to Nature removed.
+CG15 — Jungle Training removed.
+CG01 — Novice Leafspeaker removed.
+CG02 — Diamond Delta Herbalist removed.
+CG03 — Rainforest Medic removed.
+CG14 — Rampant Growth removed.
+CG04 — Burn's Warrior removed.
+CG05 — Blaze's Minder removed.
+CG06 — Reluctant Warrior removed.
+CG07 — PoisonWing Speaker removed.
+CG08 — Bigwings removed.
+CX01 — Queen's Archivist removed.
+CX02 — Hive Master removed.
+CX03 — Sibling Shieldbrother removed.
+CX04 — Frontline Supporter removed.
+CX05 — Ashen Scavenger removed.
+CX06 — Ceremony Proctor removed.
+CX07 — Fruit Gatherer removed.
+CX08 — Faithless Looter removed.
+CX09 — Outclaw Watcher removed.
+CX10 — Flamesilk Escapee removed.
+CA02 — The Lazulite Dragon removed.
+CA01 — Bracelet of Strength removed.
+WU Dual — Diamond Caves removed.
+WR Dual — Claws of the Clouds Mountain removed.
+WG Dual — Diamond Spray Delta removed.
+UB Dual — The Lost City removed.
+UR Dual — Bay of a Thousand Scales removed.
+UG Dual — Banyan Tree removed.
+BR Dual — Indestructible City removed.
+BG Dual — Scorpion Den removed.
+RG Dual — Poison Jungle removed.
+Fix Land — Possibility removed.
+CW15 — Protective Earrings removed.
+CG13 — Declaration of Peace removed.
+WB Dual — Sinkhole removed.
+Darkstalker, Returned removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

@@ -1,20 +1,14 @@
 ﻿{
-    "name": "Wings of Fire Only Commons",
-    "formats": "",
-    "trimmed": "y",
-    "image_type": "png",
-    "draft_structure": "none",
-    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "CW01 Gracious Unsib",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 MudWing Dragon Child",
+            "type": "Creature \u2013 MudWing Dragon Child",
             "number": 1,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Flying\n[i]Brotherhood[/i] \u2014 If you control at least three creatures, creatures you control get +0/+1.",
+            "rules_text": "Flying\n[i]Brotherhood[/i] \u2013 If you control at least three creatures, creatures you control get +0/+1.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -23,13 +17,14 @@
             "loyalty": "",
             "artist": "SirSc0ttie",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW02 Honey Farmer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 SilkWing Dragon Peasant",
+            "type": "Creature \u2013 SilkWing Dragon Peasant",
             "number": 2,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -42,17 +37,18 @@
             "loyalty": "",
             "artist": "StellerumVitor",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW03 Scarlet's Skirmisher",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 SkyWing Dragon Soldier",
+            "type": "Creature \u2013 SkyWing Dragon Soldier",
             "number": 3,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flying\n[i]Valiant[/i] \u2014 Whenever Scarlet's Skirmisher becomes the target of a spell or ability you control for the first time each turn, it gains first strike until end of turn.",
+            "rules_text": "Flying\n[i]Valiant[/i] \u2013 Whenever Scarlet's Skirmisher becomes the target of a spell or ability you control for the first time each turn, it gains first strike until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -61,13 +57,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW04 Castle Guard",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 SkyWing Dragon Soldier",
+            "type": "Creature \u2013 SkyWing Dragon Soldier",
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -80,13 +77,14 @@
             "loyalty": "",
             "artist": "TheWulf1",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW05 HiveWing Honeyseller",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 HiveWing Dragon Citizen",
+            "type": "Creature \u2013 HiveWing Dragon Citizen",
             "number": 5,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -99,17 +97,18 @@
             "loyalty": "",
             "artist": "TatsuOwO",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW06 Sibling Healer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 MudWing Dragon Druid",
+            "type": "Creature \u2013 MudWing Dragon Druid",
             "number": 6,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Flying\n[i]Brotherhood[/i] \u2014 At the beginning of combat on your turn, if you control at least three creatures, target creature gains lifelink until end of turn.",
+            "rules_text": "Flying\n[i]Brotherhood[/i] \u2013 At the beginning of combat on your turn, if you control at least three creatures, target creature gains lifelink until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -118,13 +117,14 @@
             "loyalty": "",
             "artist": "Dinkysaurus",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW07 Arena Entertainer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 SkyWing Dragon Bard",
+            "type": "Creature \u2013 SkyWing Dragon Bard",
             "number": 7,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -137,13 +137,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW08 IceWing Artificer",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 IceWing Dragon Artificer",
+            "type": "Creature \u2013 IceWing Dragon Artificer",
             "number": 8,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -156,7 +157,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW09 Break the Spell",
@@ -175,13 +177,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW10 Moonstone Bracelet",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact Enchantment \u2014 Aura",
+            "type": "Artifact Enchantment \u2013 Aura",
             "number": 10,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
@@ -194,7 +197,8 @@
             "loyalty": "",
             "artist": "cranegoose",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW11 Reenchant",
@@ -213,7 +217,8 @@
             "loyalty": "",
             "artist": "Joy Ang",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW12 Strike First",
@@ -232,7 +237,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW14 Call for Aid",
@@ -251,13 +257,14 @@
             "loyalty": "",
             "artist": "TurquoiseThorns",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CW15 Protective Earrings",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Artifact \u2013 Equipment",
             "number": 14,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -270,13 +277,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU01 Hatchery Guard",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 RainWing Dragon Soldier",
+            "type": "Creature \u2013 RainWing Dragon Soldier",
             "number": 15,
             "color_identity": "U",
             "cost": "{U}",
@@ -289,13 +297,14 @@
             "loyalty": "",
             "artist": "TurquoiseThorns",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU02 Third Circle Storyteller",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 IceWing Dragon Bard",
+            "type": "Creature \u2013 IceWing Dragon Bard",
             "number": 16,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -308,13 +317,14 @@
             "loyalty": "",
             "artist": "Rurik-Redwolf",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU03 Summer Palace Guard",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 SeaWing Dragon Soldier",
+            "type": "Creature \u2013 SeaWing Dragon Soldier",
             "number": 17,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -327,13 +337,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU04 Palace Advisor",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 SeaWing Dragon Advisor",
+            "type": "Creature \u2013 SeaWing Dragon Advisor",
             "number": 18,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -346,13 +357,14 @@
             "loyalty": "",
             "artist": "missionimpossiblespi",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU05 First Moon Seer",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 NightWing Dragon Shaman",
+            "type": "Creature \u2013 NightWing Dragon Shaman",
             "number": 19,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -365,13 +377,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU06 Enchanted Dagger",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment Artifact Creature \u2014 Construct",
+            "type": "Enchantment Artifact Creature \u2013 Construct",
             "number": 20,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -384,17 +397,18 @@
             "loyalty": "",
             "artist": "DALL-E",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU07 NightWing Strategist",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 NightWing Dragon Rogue",
+            "type": "Creature \u2013 NightWing Dragon Rogue",
             "number": 21,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "Flying\n[i]Threshold[/i] \u2014 {U}, {T}: Draw a card. Activate only if there are seven or more cards in your graveyard.",
+            "rules_text": "Flying\n[i]Threshold[/i] \u2013 {U}, {T}: Draw a card. Activate only if there are seven or more cards in your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -403,17 +417,18 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU08 Border Watch",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 RainWing Dragon Advisor",
+            "type": "Creature \u2013 RainWing Dragon Advisor",
             "number": 22,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "Defender, flying\n[i]Rested[/i] \u2014 At the beginning of your second main phase, if Border Watch is tapped, it can attack as though it didn't have defender until the end of your next turn.",
+            "rules_text": "Defender, flying\n[i]Rested[/i] \u2013 At the beginning of your second main phase, if Border Watch is tapped, it can attack as though it didn't have defender until the end of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -422,7 +437,8 @@
             "loyalty": "",
             "artist": "Nightrizer",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU09 Arcane Denial",
@@ -441,13 +457,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU10 Lure of Paradise",
             "color": "U",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 24,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
@@ -460,7 +477,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU11 Prophesize",
@@ -479,7 +497,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU12 Coordinate",
@@ -498,7 +517,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU13 Consign to Memory",
@@ -517,7 +537,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CU14 Divination",
@@ -536,13 +557,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB01 Dragonmancer Apprentice",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Shaman",
+            "type": "Creature \u2013 Human Shaman",
             "number": 29,
             "color_identity": "B",
             "cost": "{B}",
@@ -555,13 +577,14 @@
             "loyalty": "",
             "artist": "Joy Ang",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB02 Indoctrinated Student",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 SilkWing Dragon Peasant",
+            "type": "Creature \u2013 SilkWing Dragon Peasant",
             "number": 30,
             "color_identity": "B",
             "cost": "{B}",
@@ -574,13 +597,14 @@
             "loyalty": "",
             "artist": "TurquoiseThorns",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB03 Vulture's Assassin",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 SandWing Dragon Assassin",
+            "type": "Creature \u2013 SandWing Dragon Assassin",
             "number": 31,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -593,13 +617,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB04 Island Scavenger",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 NightWing Dragon Peasant",
+            "type": "Creature \u2013 NightWing Dragon Peasant",
             "number": 32,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -612,13 +637,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB05 Village Treasurer",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Human Shaman",
+            "type": "Creature \u2013 Human Shaman",
             "number": 33,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -631,13 +657,14 @@
             "loyalty": "",
             "artist": "BobKehl",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB06 Outclaw Peacekeeper",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 SandWing Dragon Rogue",
+            "type": "Creature \u2013 SandWing Dragon Rogue",
             "number": 34,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -650,13 +677,14 @@
             "loyalty": "",
             "artist": "Tortellaney",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB07 Lady of the Hive",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 HiveWing Dragon Noble",
+            "type": "Creature \u2013 HiveWing Dragon Noble",
             "number": 35,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -669,17 +697,18 @@
             "loyalty": "",
             "artist": "Avacado14000",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB08 Tunnel Guard",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 NightWing Dragon Soldier",
+            "type": "Creature \u2013 NightWing Dragon Soldier",
             "number": 36,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Flying, defender\n[i]Threshold[/i] \u2014 If there are seven or more cards in your graveyard, Tunnel Guard can attack as though it didn't have defender.",
+            "rules_text": "Flying, defender\n[i]Threshold[/i] \u2013 If there are seven or more cards in your graveyard, Tunnel Guard can attack as though it didn't have defender.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -688,7 +717,8 @@
             "loyalty": "",
             "artist": "TurquoiseThorns",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB09 Revealing Paper",
@@ -707,7 +737,8 @@
             "loyalty": "",
             "artist": "DALL-E",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB10 Deadly Dispute",
@@ -726,7 +757,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB11 Sudden Strike",
@@ -745,7 +777,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB12 False Visions",
@@ -764,7 +797,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB13 Drop",
@@ -783,7 +817,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CB14 Murder",
@@ -802,13 +837,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR01 Scarlet's Frontrunner",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 SkyWing Dragon Soldier",
+            "type": "Creature \u2013 SkyWing Dragon Soldier",
             "number": 43,
             "color_identity": "R",
             "cost": "{R}",
@@ -821,17 +857,18 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR02 Arena Firebreather",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 SkyWing Dragon Warrior",
+            "type": "Creature \u2013 SkyWing Dragon Warrior",
             "number": 44,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Flying\n[i]Valiant[/i] \u2014 Whenever Arena Firebreather becomes the target for a spell or ability you control for the first time each turn, deal 1 damage to any target.",
+            "rules_text": "Flying\n[i]Valiant[/i] \u2013 Whenever Arena Firebreather becomes the target for a spell or ability you control for the first time each turn, deal 1 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -840,13 +877,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR03 Raider of Valor",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 45,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -859,13 +897,14 @@
             "loyalty": "",
             "artist": "TimforShadeDigital",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR04 Arena Announcer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 SkyWing Dragon Bard",
+            "type": "Creature \u2013 SkyWing Dragon Bard",
             "number": 46,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -878,17 +917,18 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR05 Flamesilk Supporter",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 SilkWing Dragon Rebel",
+            "type": "Creature \u2013 SilkWing Dragon Rebel",
             "number": 47,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, target creature gets +1/+0 until end of turn.\nMetamorphosis {1}{R}",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, target creature gets +1/+0 until end of turn.\nMetamorphosis {1}{R}",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -897,13 +937,14 @@
             "loyalty": "",
             "artist": "CrazyDragonPersons",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR06 Summer Palace Entertainer",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 SeaWing Dragon Bard",
+            "type": "Creature \u2013 SeaWing Dragon Bard",
             "number": 48,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -916,13 +957,14 @@
             "loyalty": "",
             "artist": "RoomsInTheWalls",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR07 Indiscriminate Looters",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Human Warrior",
+            "type": "Creature \u2013 Human Warrior",
             "number": 49,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -935,17 +977,18 @@
             "loyalty": "",
             "artist": "XiaoBotong",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR08 Hive Burner",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 LeafWing Dragon Rebel",
+            "type": "Creature \u2013 LeafWing Dragon Rebel",
             "number": 50,
             "color_identity": "R",
             "cost": "{4}{R}",
-            "rules_text": "Flying\nWhen Hive Burner enters, choose one \u2014 \n\u2022 Destroy target artifact.\n\u2022 Search your library for a basic Mountain and put it into your hand, then shuffle.",
+            "rules_text": "Flying\nWhen Hive Burner enters, choose one \u2013 \n\u2022 Destroy target artifact.\n\u2022 Search your library for a basic Mountain and put it into your hand, then shuffle.",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -954,7 +997,8 @@
             "loyalty": "",
             "artist": "LilyTheLeafwing",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR09 Raze the Village",
@@ -973,7 +1017,8 @@
             "loyalty": "",
             "artist": "TonkyP",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR10 Careless Looting",
@@ -992,7 +1037,8 @@
             "loyalty": "",
             "artist": "KILIK395",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR11 Rallying Chorus",
@@ -1011,7 +1057,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR12 Abrade",
@@ -1021,7 +1068,7 @@
             "number": 54,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Choose one \u2014 \n\u2022 Abrade deals 3 damage to target creature.\n\u2022 Destroy target artifact.",
+            "rules_text": "Choose one \u2013 \n\u2022 Abrade deals 3 damage to target creature.\n\u2022 Destroy target artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1030,13 +1077,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR13 Enchanted Spear",
             "color": "R",
             "rarity": "common",
-            "type": "Enchantment Artifact \u2014 Equipment",
+            "type": "Enchantment Artifact \u2013 Equipment",
             "number": 55,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1049,7 +1097,8 @@
             "loyalty": "",
             "artist": "DALL-E",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CR14 Demand Answers",
@@ -1068,13 +1117,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG01 Novice Leafspeaker",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 LeafWing Dragon Druid",
+            "type": "Creature \u2013 LeafWing Dragon Druid",
             "number": 57,
             "color_identity": "G",
             "cost": "{G}",
@@ -1087,17 +1137,18 @@
             "loyalty": "",
             "artist": "Orbitt12",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG02 Diamond Delta Herbalist",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 MudWing Dragon Shaman",
+            "type": "Creature \u2013 MudWing Dragon Shaman",
             "number": 58,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Flying\n[i]Brotherhood[/i] \u2014 When Diamond Delta Herbalist enters, if you control at least 3 creatures, creatures you control get +0/+1 until end of turn.",
+            "rules_text": "Flying\n[i]Brotherhood[/i] \u2013 When Diamond Delta Herbalist enters, if you control at least 3 creatures, creatures you control get +0/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -1106,13 +1157,14 @@
             "loyalty": "",
             "artist": "Sunrise-Forest",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG03 Rainforest Medic",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 RainWing Dragon Druid",
+            "type": "Creature \u2013 RainWing Dragon Druid",
             "number": 59,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -1125,13 +1177,14 @@
             "loyalty": "",
             "artist": "LuckyDoodables",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG04 Burn's Warrior",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 SandWing Dragon Rogue",
+            "type": "Creature \u2013 SandWing Dragon Rogue",
             "number": 60,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1144,13 +1197,14 @@
             "loyalty": "",
             "artist": "X-ClockworkDragon-X",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG05 Blaze's Minder",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 SandWing Dragon Mercenary",
+            "type": "Creature \u2013 SandWing Dragon Mercenary",
             "number": 61,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
@@ -1163,17 +1217,18 @@
             "loyalty": "",
             "artist": "Micrwve",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG06 Reluctant Warrior",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 RainWing Dragon Warrior",
+            "type": "Creature \u2013 RainWing Dragon Warrior",
             "number": 62,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Flying\n[i]Rested[/i] \u2014 At the beginning of your second main phase, if Reluctant Warrior is tapped, put a +1/+1 counter on it.",
+            "rules_text": "Flying\n[i]Rested[/i] \u2013 At the beginning of your second main phase, if Reluctant Warrior is tapped, put a +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -1182,17 +1237,18 @@
             "loyalty": "",
             "artist": "TurquoiseThorns",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG07 PoisonWing Speaker",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 LeafWing Dragon Warrior",
+            "type": "Creature \u2013 LeafWing Dragon Warrior",
             "number": 63,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Flying\n[i]Landfall[/i] \u2014 Whenever a land enters the battlefield, PoisonWing Speaker gains +2/+0 until end of turn.",
+            "rules_text": "Flying\n[i]Landfall[/i] \u2013 Whenever a land enters the battlefield, PoisonWing Speaker gains +2/+0 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "4/3",
             "special_text": "",
@@ -1201,13 +1257,14 @@
             "loyalty": "",
             "artist": "solarstarkat",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG08 Bigwings",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 MudWing Dragon Peasant",
+            "type": "Creature \u2013 MudWing Dragon Peasant",
             "number": 64,
             "color_identity": "G",
             "cost": "{5}{G}",
@@ -1220,7 +1277,8 @@
             "loyalty": "",
             "artist": "Lucithen",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG09 Enter the Delta",
@@ -1230,7 +1288,7 @@
             "number": 65,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Choose one \u2014 \n\u2022 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n\u2022 Create a 1/1 green MudWing creature token.",
+            "rules_text": "Choose one \u2013 \n\u2022 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\n\u2022 Create a 1/1 green MudWing creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1239,7 +1297,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG10 Venom Strike",
@@ -1258,7 +1317,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG11 Outclaw Ambush",
@@ -1277,7 +1337,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG12 Return to Nature",
@@ -1287,7 +1348,7 @@
             "number": 68,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one \u2014 \n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Exile target card from a graveyard.",
+            "rules_text": "Choose one \u2013 \n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Exile target card from a graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1296,7 +1357,8 @@
             "loyalty": "",
             "artist": "Joy Ang",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG13 Declaration of Peace",
@@ -1315,7 +1377,8 @@
             "loyalty": "",
             "artist": "Jake Parker",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG14 Rampant Growth",
@@ -1334,13 +1397,14 @@
             "loyalty": "",
             "artist": "Joy Ang",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CG15 Jungle Training",
             "color": "G",
             "rarity": "common",
-            "type": "Enchantment \u2014 Aura",
+            "type": "Enchantment \u2013 Aura",
             "number": 71,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -1353,13 +1417,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX01 Queen's Archivist",
             "color": "WU",
             "rarity": "common",
-            "type": "Creature \u2014 IceWing Dragon Guard",
+            "type": "Creature \u2013 IceWing Dragon Guard",
             "number": 72,
             "color_identity": "WU",
             "cost": "{2}{WU}",
@@ -1372,13 +1437,14 @@
             "loyalty": "",
             "artist": "IronNokana (DevArt)",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX02 Hive Master",
             "color": "WB",
             "rarity": "common",
-            "type": "Creature \u2014 HiveWing Dragon Noble",
+            "type": "Creature \u2013 HiveWing Dragon Noble",
             "number": 73,
             "color_identity": "WB",
             "cost": "{2}{WB}",
@@ -1391,17 +1457,18 @@
             "loyalty": "",
             "artist": "DarkNeptunium",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX03 Sibling Shieldbrother",
             "color": "WG",
             "rarity": "common",
-            "type": "Creature \u2014 MudWing Dragon Soldier",
+            "type": "Creature \u2013 MudWing Dragon Soldier",
             "number": 74,
             "color_identity": "WG",
             "cost": "{1}{GW}{GW}",
-            "rules_text": "Flying, vigilance\n[i]Brotherhood[/i] \u2014 If you control at least 3 creatures, creatures you control have vigilance.",
+            "rules_text": "Flying, vigilance\n[i]Brotherhood[/i] \u2013 If you control at least 3 creatures, creatures you control have vigilance.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1410,13 +1477,14 @@
             "loyalty": "",
             "artist": "Breadisnotbread",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX04 Frontline Supporter",
             "color": "WR",
             "rarity": "common",
-            "type": "Creature \u2014 SkyWing Dragon Soldier",
+            "type": "Creature \u2013 SkyWing Dragon Soldier",
             "number": 75,
             "color_identity": "WR",
             "cost": "{2}{RW}",
@@ -1429,17 +1497,18 @@
             "loyalty": "",
             "artist": "xErizeax",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX05 Ashen Scavenger",
             "color": "UB",
             "rarity": "common",
-            "type": "Creature \u2014 NightWing Dragon Rogue",
+            "type": "Creature \u2013 NightWing Dragon Rogue",
             "number": 76,
             "color_identity": "UB",
             "cost": "{1}{UB}{UB}",
-            "rules_text": "Flying\n[i]Threshold[/i] \u2014 As long as there are sever or more cards in your graveyard, CX05 Ashen Scavenger gets +1/+2.\n{1}{UB}: Mill one card.",
+            "rules_text": "Flying\n[i]Threshold[/i] \u2013 As long as there are sever or more cards in your graveyard, CX05 Ashen Scavenger gets +1/+2.\n{1}{UB}: Mill one card.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1448,13 +1517,14 @@
             "loyalty": "",
             "artist": "SpinningElectron",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX06 Ceremony Proctor",
             "color": "UR",
             "rarity": "common",
-            "type": "Creature \u2014 SeaWing Dragon Noble",
+            "type": "Creature \u2013 SeaWing Dragon Noble",
             "number": 77,
             "color_identity": "UR",
             "cost": "{2}{UR}{UR}",
@@ -1467,13 +1537,14 @@
             "loyalty": "",
             "artist": "Fluffywings123",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX07 Fruit Gatherer",
             "color": "UG",
             "rarity": "common",
-            "type": "Creature \u2014 RainWing Dragon",
+            "type": "Creature \u2013 RainWing Dragon",
             "number": 78,
             "color_identity": "UG",
             "cost": "{GU}",
@@ -1486,13 +1557,14 @@
             "loyalty": "",
             "artist": "Tortellaney",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX08 Faithless Looter",
             "color": "BR",
             "rarity": "common",
-            "type": "Creature \u2014 Human Rebel",
+            "type": "Creature \u2013 Human Rebel",
             "number": 79,
             "color_identity": "BR",
             "cost": "{2}{BR}",
@@ -1505,13 +1577,14 @@
             "loyalty": "",
             "artist": "albedo238",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX09 Outclaw Watcher",
             "color": "BG",
             "rarity": "common",
-            "type": "Creature \u2014 SandWing Assassin",
+            "type": "Creature \u2013 SandWing Assassin",
             "number": 80,
             "color_identity": "BG",
             "cost": "{3}{BG}",
@@ -1524,17 +1597,18 @@
             "loyalty": "",
             "artist": "SnackCrackers",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CX10 Flamesilk Escapee",
             "color": "RG",
             "rarity": "common",
-            "type": "Creature \u2014 SilkWing Dragon Rebel",
+            "type": "Creature \u2013 SilkWing Dragon Rebel",
             "number": 81,
             "color_identity": "RG",
             "cost": "{2}{RG}{RG}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, target creature you control gets +2/+1 until end of turn.\nMetamorphosis {RG}{RG}",
+            "rules_text": "[i]Landfall[/i] \u2013 Whenever a land you control enters, target creature you control gets +2/+1 until end of turn.\nMetamorphosis {RG}{RG}",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1543,13 +1617,14 @@
             "loyalty": "",
             "artist": "WolfyloverAlyssa",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CA01 Bracelet of Strength",
             "color": "",
             "rarity": "common",
-            "type": "Enchantment Artifact \u2014 Equipment",
+            "type": "Enchantment Artifact \u2013 Equipment",
             "number": 82,
             "color_identity": "C",
             "cost": "{2}",
@@ -1562,7 +1637,8 @@
             "loyalty": "",
             "artist": "DALL-E",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "CA02 The Lazulite Dragon",
@@ -1581,13 +1657,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "BG Dual Scorpion Den",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Swamp Forest",
+            "type": "Land \u2013 Swamp Forest",
             "number": 84,
             "color_identity": "BG",
             "cost": "",
@@ -1600,13 +1677,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "BR Dual Indestructible City",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Swamp Mountain",
+            "type": "Land \u2013 Swamp Mountain",
             "number": 85,
             "color_identity": "BR",
             "cost": "",
@@ -1619,7 +1697,8 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "Evolving Wilds",
@@ -1638,7 +1717,8 @@
             "loyalty": "",
             "artist": "GronHatchat",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "Possibility",
@@ -1657,13 +1737,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "RG Dual Poison Jungle",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Mountain Forest",
+            "type": "Land \u2013 Mountain Forest",
             "number": 88,
             "color_identity": "RG",
             "cost": "",
@@ -1676,13 +1757,14 @@
             "loyalty": "",
             "artist": "DestinyHeart25",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "UB Dual The Lost City",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Island Swamp",
+            "type": "Land \u2013 Island Swamp",
             "number": 89,
             "color_identity": "UB",
             "cost": "",
@@ -1695,13 +1777,14 @@
             "loyalty": "",
             "artist": "Joy Ang",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "UG Dual Banyan Tree",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Forest Island",
+            "type": "Land \u2013 Forest Island",
             "number": 90,
             "color_identity": "UG",
             "cost": "",
@@ -1714,13 +1797,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "UR Dual Bay of a Thousand Scales",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Island Mountain",
+            "type": "Land \u2013 Island Mountain",
             "number": 91,
             "color_identity": "UR",
             "cost": "",
@@ -1733,13 +1817,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "WB Dual Sinkhole",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Plains Swamp",
+            "type": "Land \u2013 Plains Swamp",
             "number": 92,
             "color_identity": "WB",
             "cost": "",
@@ -1752,13 +1837,14 @@
             "loyalty": "",
             "artist": "Cenote",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "WG Dual Diamond Spray Delta",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Forest Plains",
+            "type": "Land \u2013 Forest Plains",
             "number": 93,
             "color_identity": "WG",
             "cost": "",
@@ -1771,13 +1857,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "WR Dual Claws of the Clouds Mountain",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Mountain Plains",
+            "type": "Land \u2013 Mountain Plains",
             "number": 94,
             "color_identity": "WR",
             "cost": "",
@@ -1790,13 +1877,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "WU Dual Diamond Caves",
             "color": "",
             "rarity": "common",
-            "type": "Land \u2014 Plains Island",
+            "type": "Land \u2013 Plains Island",
             "number": 95,
             "color_identity": "WU",
             "cost": "",
@@ -1809,13 +1897,14 @@
             "loyalty": "",
             "artist": "Mike Holmes & Maarta Laiho",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "SilkWing Token",
             "color": "W",
             "rarity": "common",
-            "type": "Token Creature \u2014 SilkWing Dragon",
+            "type": "Token Creature \u2013 SilkWing Dragon",
             "number": 3,
             "color_identity": "W",
             "cost": "",
@@ -1828,13 +1917,14 @@
             "loyalty": "",
             "artist": "Snowmango1",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "MudWing Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2014 MudWing Dragon",
+            "type": "Token Creature \u2013 MudWing Dragon",
             "number": 1,
             "color_identity": "C",
             "cost": "",
@@ -1847,13 +1937,14 @@
             "loyalty": "",
             "artist": "ChickenExpert",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         },
         {
             "card_name": "MudWing Token",
             "color": "",
             "rarity": "common",
-            "type": "Token Creature \u2014 SilkWing Dragon",
+            "type": "Token Creature \u2013 SilkWing Dragon",
             "number": 2,
             "color_identity": "C",
             "cost": "",
@@ -1866,8 +1957,8 @@
             "loyalty": "",
             "artist": "Snowmango1",
             "alias": "",
-            "notes": ""
+            "notes": "",
+            "image_type": "png"
         }
-    ],
-    "version": 2
+    ]
 }
